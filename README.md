@@ -1,7 +1,8 @@
 # Cloud Optimized Geospatial Data Access
 Best practices and tutorials using open-source libraries for Cloud Optimized GeoTIFF (COG) access from Natural Resources Canada's Center for Mapping and Earth Observation (CCMEO) datacube.
 
-Main documentation is under the GitHub pages repository site.   
+See the GitHub pages repository site : https://nrcan.github.io/cloud-optimized-geospatial/    
+
 Built with : [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
 ## Link to CCMEO COG collections 
