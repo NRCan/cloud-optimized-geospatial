@@ -36,7 +36,7 @@ Third party libraries using STAC objects :
 
 ## Report an Issue
 
-If you encounter any issues, please create a new issue using our templates.
+If you encounter any issues, please [create a new issue](https://github.com/NRCan/cloud-optimized-geospatial/issues/new/choose) using our templates.
 
 ## License
 The examples are released under the [Open Government License - Canada](https://open.canada.ca/en/open-government-licence-canada).
