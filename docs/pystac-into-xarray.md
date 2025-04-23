@@ -127,5 +127,5 @@ See `Xarray.DataArray` for details on methods : <https://docs.xarray.dev/en/stab
 [working-with-xarray-object]: #working-with-xarray-object
 [community-notebook-complete-examples]: #community-notebook-complete-examples
 <!-- TODO : Find a better way to link those jupyternotebooks... -->
-[Loading multi-collections in a Xarray.Dataset]: https://github.com/charlottecrevier/how-to/blob/cebcb055e8e57b768df20577ca5ea7f34c367c0c/how-to-guides/notebook/multi-collection-example.ipynb
-[Calculating the flow direction using open source library pyflwdir and Xarray.DataArray]: https://github.com/charlottecrevier/how-to/blob/cebcb055e8e57b768df20577ca5ea7f34c367c0c/how-to-guides/notebook/pyflwdir-example.ipynb
+[Loading multi-collections in a Xarray.Dataset]: https://github.com/NRCan/cloud-optimized-geospatial/blob/ec2de7af4249ee53b9c1cdf106e8fa9b6118b5cb/how-to-guides/notebook/multi-collection-example.ipynb
+[Calculating the flow direction using open source library pyflwdir and Xarray.DataArray]: https://github.com/NRCan/cloud-optimized-geospatial/blob/ec2de7af4249ee53b9c1cdf106e8fa9b6118b5cb/how-to-guides/notebook/pyflwdir-example.ipynb
