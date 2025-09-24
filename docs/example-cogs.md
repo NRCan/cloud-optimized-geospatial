@@ -7,7 +7,7 @@ See <https://guide.cloudnativegeo.org/>
 ## Using [rasterio]
 
 ``` sh
---8<-- "how-to-guides/rasterio-requirements.txt:2"
+--8<-- "how-to-guides/rasterio-requirements.txt:2:2"
 ```
 
 The developers of the rasterio library provide additional examples of usage. 

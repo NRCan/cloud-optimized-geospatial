@@ -1,6 +1,11 @@
 """
 ## Read a portion of a remote COG
 
+For this example, you will need to also install [shapely](https://shapely.readthedocs.io/en/stable/installation.html):   
+```bash
+pip install shapely
+```
+
 In this code you will : 
 
 - Query a STAC API with pystac-client to get link to a COG;
@@ -71,7 +76,7 @@ with rasterio.open(links[0]) as src:
 # Write the output array to a tiff file
 output_tiff = r"path/to/output.tif"
 with rasterio.open(output_tiff, 'w', **metadata) as dst:
-    dst.write(rst)
+    dst.write(rst, 1)
 # --8<-- [end:code]
 
 
