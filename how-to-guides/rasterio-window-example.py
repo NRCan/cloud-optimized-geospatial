@@ -54,7 +54,7 @@ for page in search.pages():
 # Read AOI from the first COG
 with rasterio.open(links[0]) as src:
     # Transform bbox to src EPSG
-    transformed_bbox = shape(transform_geom(src.crs, bbox_crs, 
+    transformed_bbox = shape(transform_geom(bbox_crs, src.crs, 
                                                 box(*bbox))).bounds
     # Define the window to read the values
     window=from_bounds(transformed_bbox[0], transformed_bbox[1], 
